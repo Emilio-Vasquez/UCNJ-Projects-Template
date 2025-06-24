@@ -1,0 +1,10 @@
+## If you want to get an overview of what this file is, and it's use
+## Go to the Template/README.md file
+
+## VirtualEnv/
+## your virtual environment folder should be ignored because it'll be hard and time consuming to bring
+## that over to the GitHub, and it could also mess up other's virtuals environments.
+
+## .env
+## .gitignore
+## You also want to hide .env and .gitignore for security reasons
