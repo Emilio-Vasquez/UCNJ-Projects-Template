@@ -23,7 +23,6 @@ This Video is within your Canvas. Inside of the Project Module called: `PythonWe
   - Use `.gitignore`, `README.md`, and `requirements.txt`
 
 This Video is within your Canvas. Inside of the Project Module called: `PythonWebApp-Part2`
-
 ---
 
 ## Additional Learning Resources
