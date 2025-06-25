@@ -78,7 +78,7 @@ Flask is a lightweight **Python web framework** used to build web applications. 
   JavaScript adds **interactivity and behavior** to your page. Things like button clicks, form validation, and dynamic updates without refreshing the page are handled by JS. Scripts live in `static/js/` and are linked at the bottom of HTML files.
 
 - **Flask (Python)**  
-  Flask is the **back-end logic**. It receives browser requests, processes them (e.g., checking a login), fetches data from a database if needed, and returns HTML pages or JSON responses.
+  Flask is the **back-end logic**. It receives browser requests, processes them (checking a login), fetches data from a database if needed, and returns HTML pages or JSON responses.
 
 Together:
 - Flask renders the HTML (`templates/*.html`)
