@@ -8,3 +8,14 @@
 ## .env
 ## .gitignore
 ## You also want to hide .env and .gitignore for security reasons
+
+
+# Un-commented the below after clone:
+
+##MyVenv/
+
+##.env
+##config.py
+##.gitignore
+
+##__pycache__/
