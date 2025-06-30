@@ -6,7 +6,7 @@ Each project idea below meets the required structure: Flask/Django backend, simp
 
 ## 1. ComicBook Central
 **Theme:** Online library of comic books and graphic novels  
-- **Dashboard:** Users browse comic books by title, author, or genre (e.g., action, fantasy, sci-fi).
+- **Dashboard:** Users browse comic books by title, author, or genre (Example: action, fantasy, sci-fi).
 - **Borrowing System:** Borrow up to 5 comics with 14-day return deadlines; late returns trigger emails.
 - **Admin Features:** Request new comics (by ISBN/author/title/price), see borrowed/overdue comics.
 - **Extra Flair:** Comic preview panel using JS modals, user ratings system.
@@ -33,7 +33,7 @@ Each project idea below meets the required structure: Flask/Django backend, simp
 
 ## 4. Language Learner Library
 **Theme:** Language books and learner resources  
-- **Dashboard:** Browse books by language (e.g., Spanish, French), level, and type (grammar, vocab).
+- **Dashboard:** Browse books by language (Example: Spanish, French), level, and type (grammar, vocab).
 - **Borrowing System:** Borrow up to 5 books, return logic enforced with overdue flags.
 - **Admin Features:** Track most borrowed resources by language; flag outdated materials.
 - **Extra Flair:** Vocabulary flashcard mini-game using JS, filter by learning level.
@@ -42,7 +42,7 @@ Each project idea below meets the required structure: Flask/Django backend, simp
 
 ## 5. Wellness Reads
 **Theme:** Mental health and wellness-themed books  
-- **Dashboard:** Filter by themes (e.g., mindfulness, anxiety, productivity), search by author or title.
+- **Dashboard:** Filter by themes (Example: mindfulness, anxiety, productivity), search by author or title.
 - **Borrowing System:** Same constraints with focus on gentle user interface and calming design.
 - **Admin Features:** Approve wellness book requests, view usage stats.
 - **Extra Flair:** “Staff picks” list, self-help topic tags, calendar integration for return reminders.
@@ -60,7 +60,7 @@ Each project idea below meets the required structure: Flask/Django backend, simp
 
 ## 7. Young Readers Corner
 **Theme:** Children’s library  
-- **Dashboard:** Filter books by age range, genre (e.g., adventure, fantasy), author.
+- **Dashboard:** Filter books by age range, genre (Example: adventure, fantasy), author.
 - **Borrowing System:** Encourage early readers to borrow and track their books.
 - **Admin Features:** Manage colorful book inventory, limit by parent account if desired.
 - **Extra Flair:** JS read-aloud preview for some books, progress badges.

@@ -9,7 +9,7 @@ This is a ready-to-use Flask full-stack starter project designed for instruction
 ```
 Template (you should rename this folder to your own specific project)/
 ├── app.py
-├── .env # For environment variables (e.g., secret keys)
+├── .env # For environment variables (Example: secret keys)
 ├── .gitignore # Hides .env and virtual environment from Git
 ├── requirements.txt # Add Python packages here, you can freeze your environment and pipe the libraries into this file
 ├── VirtualEnv/ # (Recommended) Virtual environment folder, you can rename it or create a new one: python -m venv MyVenv
@@ -93,12 +93,12 @@ Together:
 If your project requires storing or retrieving data (users, feedback, products, typically I will only have this section for my database course), you will need a **database**.
 
 ### Where Does the Database Go?
-- You’ll typically create or connect to a database in your **Flask app (e.g., `app.py`)**.
+- You’ll typically create or connect to a database in your **Flask app (Example: `app.py`)**.
 - Use libraries like `sqlite3`, `SQLAlchemy`, or `PyMySQL` to connect and query your database (Since we'll be working with SQL).
 - Flask can read data from the database and pass it into an HTML page via Jinja2 templates.
 
 ### How It Connects:
-1. A route in `app.py` receives a request (e.g., a user submits a form).
+1. A route in `app.py` receives a request (Example: a user submits a form).
 2. Flask processes the input and connects to the database.
 3. It runs a SQL query (like INSERT or SELECT).
 4. The result is sent to the HTML template and rendered for the user.

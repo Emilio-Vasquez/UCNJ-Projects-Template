@@ -57,7 +57,7 @@ Having this `requirements.txt` file makes it easy to replicate the app's environ
 
 **Going over the freeze command:**
 
-- `pip freeze`: Outputs a list of all installed packages and their exact versions (e.g., `Flask==2.3.2`).
+- `pip freeze`: Outputs a list of all installed packages and their exact versions (Example: `Flask==2.3.2`).
 - `>`: This is a **redirection operator**. It tells the shell to send the output into a file instead of displaying it on the screen.
 - `requirements.txt`: The file where your environment’s package list is saved. If it doesn’t exist, it will be created; if it does, it will be overwritten.
 
