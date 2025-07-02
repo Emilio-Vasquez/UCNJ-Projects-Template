@@ -13,9 +13,17 @@ This subfolder includes:
 - Project descriptions and expectations for Python, Flask, JavaScript, and full-stack development.
 - Instructions for front-end and backend integration.
 
+### `Data-Science-Instructions/`
+This subfolder includes:
+- Project descriptions, guides and expectations for Python, Machine Learning Models, and full-stack development.
+
 ### `Database-Instructions/`
 This subfolder includes:
 - Project guides and explanations related to ER modeling, joins, stored procedures, and database interaction via Python or web frameworks.
+
+### `Ideas/`
+This subfolder includes:
+- Project ideas for all 3, Data Science, Database and Computer Science.
 
 ---
 
