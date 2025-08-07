@@ -8,9 +8,43 @@ This repository provides a **starter template** for full-stack Python Flask proj
 
 ```
 UCNJ-Projects-Template/
-├── Template/ # Flask starter project (HTML, CSS, JS, Python)
-├── docs/ # Instructional files for Computer Science and Database classes
-└── README.md # This file
+├── Template/
+|   ├── app/
+|   |   ├── __init__.py
+|   |   ├── db.py
+│   |   ├── login.py
+│   |   ├── register.py
+│   |   ├── routes.py
+│   │   ├── VirtualEnv/
+│   │   │   └── README.md # Placeholder file to give instructions on virtual Environments
+│   │   ├── static/
+│   │   │   ├── css/
+│   │   │   │   └── ucnj_style.css
+│   │   │   ├── images/
+│   │   │   │   └── favicon.ico
+│   │   │   ├── js/
+│   │   │   │   ├── flash.js
+│   │   │   │   ├── login.js
+│   │   │   │   ├── register.js
+│   │   │   │   └── reset_password.js
+│   │   ├── templates/
+│   │   │   ├── base.html # Main layout used by all pages
+│   │   │   ├── index.html # Homepage
+│   │   │   ├── login.html
+│   │   │   ├── registration.html
+│   │   │   ├── feedback.html
+│   │   │   └── about.html
+│   ├── database/
+│   │   └── schema.sql
+│   ├── .env
+│   ├── .gitignore
+│   ├── config.py
+│   ├── README.md
+│   ├── requirements.txt
+│   └── run.py
+├── Tutorials/ 
+├── docs/
+└── README.md
 ```
 
 ## **How to Use**

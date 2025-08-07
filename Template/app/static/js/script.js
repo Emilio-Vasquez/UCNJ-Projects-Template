@@ -1,5 +1,3 @@
-// static/js/script.js
-
 console.log("JavaScript is linked and working!");
 
 // Example: DOM interaction

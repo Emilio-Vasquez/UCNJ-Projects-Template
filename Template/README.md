@@ -7,27 +7,39 @@ This is a ready-to-use Flask full-stack starter project designed for instruction
 ## **Project Structure**
 
 ```
-Template (you should rename this folder to your own specific project)/
-├── app.py
-├── .env # For environment variables (Example: secret keys)
-├── .gitignore # Hides .env and virtual environment from Git
-├── requirements.txt # Add Python packages here, you can freeze your environment and pipe the libraries into this file
-├── VirtualEnv/ # (Recommended) Virtual environment folder, you can rename it or create a new one: python -m venv MyVenv
-│
-├── templates/
-│ ├── base.html # Main layout used by all pages
-│ ├── index.html # Homepage
-│ ├── login.html # (Placeholder for specific project instructions)
-│ ├── registration.html# (Placeholder for specific project instructions)
-│ ├── feedback.html # (Placeholder for specific project instructions)
-│ └── about.html # (Placeholder for specific project instructions)
-│
-├── static/
-│ ├── css/
-│ │ └── styles.css # Custom styles
-│ ├── js/
-│ │ └── script.js # JavaScript logic
-│ └── images/ # Static image assets
+Template/
+├── app/
+|   ├── __init__.py
+|   ├── db.py
+|   ├── login.py
+|   ├── register.py
+|   ├── routes.py
+│   ├── VirtualEnv/
+│   │   └── README.md # Placeholder file to give instructions on virtual Environments
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── ucnj_style.css
+│   │   ├── images/
+│   │   │   └── favicon.ico
+│   │   ├── js/
+│   │   │   ├── flash.js
+│   │   │   ├── login.js
+│   │   │   ├── register.js
+│   │   │   └── reset_password.js
+│   ├── templates/
+│   │   ├── base.html # Main layout used by all pages
+│   │   ├── index.html # Homepage
+│   │   ├── login.html
+│   │   ├── registration.html
+│   │   ├── feedback.html
+│   │   └── about.html
+├── database/
+│   └── schema.sql
+├── .env
+├── .gitignore
+├── config.py
+├── README.md
+└── run.py
 ```
 
 ## **Setup Instructions**
