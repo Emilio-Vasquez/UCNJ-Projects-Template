@@ -12,10 +12,15 @@
 
 # Un-commented the below after clone:
 
-##MyVenv/
+## Environments
+# .VirtualEnv/
+# VirtualEnv/
+# .env
+# .env/
+# env/
 
-##.env
-##config.py
-##.gitignore
+## Database files
+# *.db
 
-##__pycache__/
+## Python Cache
+# __pycache__/

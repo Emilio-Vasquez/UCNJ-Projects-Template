@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 
 {% block title %}
-About Page - My Python App
+About - My Flask App
 {% endblock %}
 
 {% block content %}
-    <h2>About this flask Application!</h2>
-    <a href="{{ url_for('home') }}">Back to Home</a>
+    <h2>This is the About Page!!</h2>
+    <a href="{{ url_for('main.index') }}">Go to Home</a>
 {% endblock %}

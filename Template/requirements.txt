@@ -1,2 +1,12 @@
 ## If you want to get an overview of what this file is, and it's use
 ## Go to the Template/README.md file
+blinker==1.9.0
+click==8.2.1
+colorama==0.4.6
+Flask==3.1.2
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+mysql-connector-python==9.4.0
+python-dotenv==1.1.1
+Werkzeug==3.1.3
