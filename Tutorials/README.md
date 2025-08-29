@@ -6,6 +6,10 @@ Welcome! This tutorial series will guide you step-by-step in building a full-sta
 
 ## **Tutorial Videos (Follow in Order)**
 
+All videos are also collected in one YouTube playlist here:
+
+[Full-Stack Development Project Playlist](https://www.youtube.com/playlist?list=PL-yGP0RJ99EGbiGxTswNZqffoAqz1IGCe)
+
 ### **Part 1–3: Getting Started**
 1. *Intro* – *2:55*  
    Overview of the project and what you’ll learn.  
@@ -61,7 +65,7 @@ Welcome! This tutorial series will guide you step-by-step in building a full-sta
 ## **Additional Learning Resources**
 Here are beginner-friendly W3Schools links to practice front-end basics:  
 - [HTML Tutorial – W3Schools](https://www.w3schools.com/html/)  
-- [CSS Tutorial – W3Schools](https://www.w3schools.com/css/)  
+- [CSS Tutorial – W3Schools](https://www.w3schools.com/css/)
 - [JavaScript Tutorial – W3Schools](https://www.w3schools.com/js/)  
 - [Git and GitHub Tutorial - Kevin Stratvert](https://www.youtube.com/watch?v=tRZGeaHPoaw&t=7s)
 - [HTML & CSS Full Course - SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=7067s)
